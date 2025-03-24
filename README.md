@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+📝 Todoist-UI
+A modern and minimal Todoist UI clone built with React and Tailwind CSS. This project replicates the intuitive task management experience of Todoist with a clean design and smooth user interactions.
 
-## Getting Started
+📸 Screenshots:
+![Screenshot 2025-03-24 225157](https://github.com/user-attachments/assets/73797fe5-06cf-49b4-93a4-36f222686cad)
+![Screenshot 2025-03-24 225224](https://github.com/user-attachments/assets/5c27f0d8-46cd-4f98-aab3-ccffbc204fd5)
 
-First, run the development server:
 
-```bash
+🌟 Home Page
+
+✅ Task Management
+
+🚀 Features
+✅ Beautiful & Responsive UI
+✅ Add, Edit & Delete Tasks
+✅ Task Categorization
+✅ Dark Mode Support (Coming Soon)
+✅ Drag & Drop Functionality (Planned)
+
+🛠️ Tech Stack
+⚛️ React – Component-based UI
+
+🎨 Tailwind CSS – Styling and responsiveness
+
+⚡ Vite – Fast development and build tool
+
+🔧 Installation
+1️⃣ Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/karan79k/todoist-UI.git
+cd todoist-UI
+2️⃣ Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+3️⃣ Run the development server:
+
+bash
+Copy
+Edit
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🤝 Contributing
+Feel free to fork this repository, make improvements, and submit a pull request! Contributions are always welcome.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📜 License
+This project is open-source and available under the MIT License.
